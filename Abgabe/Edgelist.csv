@@ -1,0 +1,7 @@
+from,to,weight,duration,relationship
+Ich,Alina,4,2,6
+Ich,Angelina,4,3,6
+Ich,Annette,4,3,1
+Ich,Fanny,3,3,6
+Alina,Angelina,3,2,6
+Angelina,Fanny,2,3,6
